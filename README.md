@@ -6,5 +6,5 @@
 ![](screenshots/ss3.png)
 ![](screenshots/ss4.png)
 
-![](screenshots/SS(mobile)1.png)
-![](screenshots/SS(mobile)2.png)
+![](screenshots/SS(mobile)1.jpeg)
+![](screenshots/SS(mobile)2.jpeg)
